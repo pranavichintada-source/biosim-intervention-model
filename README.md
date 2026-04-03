@@ -1,6 +1,6 @@
-# 🧠 BioSim: Intervention-Aware System Predictor
+# BioSim: Intervention-Aware System Predictor
 
-## 🚀 What This Does
+## What This Does
 BioSim predicts how a system evolves over time — and how interventions change its future behavior.
 
 **Input:**
@@ -14,7 +14,7 @@ BioSim is a computational framework for learning the temporal evolution of biolo
 
 ---
 
-## 💡 Why This Matters
+## Why This Matters
 Most machine learning models predict static outputs.
 
 BioSim models **dynamic systems**, where:
@@ -27,7 +27,7 @@ This enables simulation of **what-if scenarios**, for example:
 
 ---
 
-## 📊 Example Output
+## Example Output
 ![Prediction Plot](../assets/prediction_plot.png)
 
 Example output shows how the model compares true and predicted trajectories for a selected feature over the next three time steps.
